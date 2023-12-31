@@ -1,0 +1,66 @@
+.box {
+  background-color: rgb(237, 126, 175);
+  background: radial-gradient(
+    circle,
+    rgba(237, 126, 175, 1) 0%,
+    rgba(148, 186, 231, 1) 100%
+  );
+  width: 500px;
+  margin: auto;
+  color: #05053b;
+  height: auto;
+  text-align: center;
+  padding: 30px 10px;
+  border-radius: 15px;
+}
+.yourBmi{
+    background-color: #fff;
+    width: 400px;
+    border-radius: 8px;
+    margin: auto;
+    padding: 7px 0px; 
+}
+h1 {
+  padding: 10px;
+}
+h2 {
+  color: #0f368b;
+}
+.calculateBmi {
+  background-color: #fff;
+  width: 400px;
+  margin: 20px auto;
+  border-radius: 15px;
+}
+.inputbox {
+  display: inline-block;
+  margin: 20px auto;
+  border: 1px solid;
+}
+.inputbox p {
+  font-weight: 700;
+  font-size: 17px;
+  line-height: 25px;
+}
+.inputbox input {
+  height: 28px;
+  width: 100px;
+  margin: 20px;
+}
+.btn {
+    padding: 11px 0px;
+    background-color: #fff;
+    border: none;
+    margin: 10px;
+    display: inline-block;
+    width: 200px;
+    border-radius: 10px;
+    box-shadow: 10px 5px 5px #a66c54;
+    font-size: 15px;
+}
+.btn:hover{
+    background-color: #6771d3;
+    color: #fff;
+    
+    
+}
